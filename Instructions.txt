@@ -1,0 +1,6 @@
+1. Right click here while pressing Shift.
+2. Select "open command promt here".
+3. Write "node index.js" to start server.
+4. Open any browser.
+5. Enter the url "localhost:3000".
+6. Play Batllecity. 
